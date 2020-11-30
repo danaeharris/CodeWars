@@ -33,3 +33,5 @@ This repository is a collection of my solutions to some **Codewars kata**.
 - Keep Hydrated ([Problem](<(https://www.codewars.com/kata/582cb0224e56e068d800003c)>) - [My Solution](<(https://github.com/danaeharris/CodeWars/commit/818fd3227e6d9191250fa72864321e3be6ada60a)>))
 
 - Capitalization and Mutability ([Problem](<(https://www.codewars.com/kata/595970246c9b8fa0a8000086)>) - [My Solution](<(https://github.com/danaeharris/CodeWars/commit/da459d82c0d0897f29897f057c892050bdcbfe7e)>))
+
+- Sort out the Men from Boys ([Problem](<(https://www.codewars.com/kata/5af15a37de4c7f223e00012d)>) - [My Solution](<(https://github.com/danaeharris/CodeWars/commit/57c8d38579464f93a64e9bdfac488c98f8aca3b6)>))
