@@ -4,6 +4,7 @@
 
 // Note: If the number is a multiple of both 3 and 5, only count it once. Also, if a number is negative, return 0(for languages that do have them)
 
+
 function solution(number) {
     let sumArray = [];
     let num = number - 1;
