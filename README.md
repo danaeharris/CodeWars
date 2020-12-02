@@ -37,3 +37,7 @@ This repository is a collection of my solutions to some **Codewars kata**.
 - Sort out the Men from Boys ([Problem](https://www.codewars.com/kata/5af15a37de4c7f223e00012d) - [My Solution](https://github.com/danaeharris/CodeWars/commit/57c8d38579464f93a64e9bdfac488c98f8aca3b6))
 
 - Shared Bit Counter ([Problem](https://www.codewars.com/kata/58a5aeb893b79949eb0000f1/solutions/javascript) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/sharedBitCounter.js))
+
+- Check the Exam ([Problem](https://www.codewars.com/kata/5a3dd29055519e23ec000074/solutions/javascript) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/checkTheExam.js))
+
+
