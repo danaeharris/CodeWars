@@ -47,3 +47,5 @@ This repository is a collection of my solutions to some **Codewars kata**.
 
 
 - Pascal's Triangle ([Problem](https://www.codewars.com/kata/5226eb40316b56c8d500030f) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/pascalsTriangle.js))
+
+- Pascal's Triangle ([Problem](https://www.codewars.com/kata/514b92a657cdc65150000006) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/pascalsTriangle.js))
