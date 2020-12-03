@@ -48,3 +48,5 @@ This repository is a collection of my solutions to some **Codewars kata**.
 
 - Multiples of Three or Five ([Problem](https://www.codewars.com/kata/514b92a657cdc65150000006) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/multiplesOfThreeOrFive.js))
 
+- Maximum Multiple ([Problem](https://www.codewars.com/kata/5aba780a6a176b029800041c) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/maximumMultiple.js))
+
