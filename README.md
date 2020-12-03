@@ -50,3 +50,5 @@ This repository is a collection of my solutions to some **Codewars kata**.
 
 - Maximum Multiple ([Problem](https://www.codewars.com/kata/5aba780a6a176b029800041c) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/maximumMultiple.js))
 
+- Special Number (Special Numbers Series 5) ([Problem](https://www.codewars.com/kata/5a55f04be6be383a50000187) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/specialNumber.js))
+
