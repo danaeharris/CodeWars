@@ -56,6 +56,8 @@ This repository is a collection of my solutions to some **Codewars kata**.
 
 - Disarium Number (Special Numbers Series 3) ([Problem](https://www.codewars.com/kata/5a53a17bfd56cb9c14000003) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/disariumNumber.js))
 
+- Jumping Number (Special Numbers Series 4) ([Problem](https://www.codewars.com/kata/5a54e796b3bfa8932c0000ed) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/jumpingNumbers.js))
+
 - Special Number (Special Numbers Series 5) ([Problem](https://www.codewars.com/kata/5a55f04be6be383a50000187) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/specialNumber.js))
 
 - Palindrome Chain Lengeth ([Problem](https://www.codewars.com/kata/525f039017c7cd0e1a000a26) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/palindromeChainLength.js))
