@@ -25,7 +25,7 @@ This repository is a collection of my solutions to some **Codewars kata**.
 - Printer Errors ([Problem](https://www.codewars.com/kata/56541980fa08ab47a0000040) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/printerErrors.js))
 
 - Counting Duplicates ([Problem](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/countingDuplicates.js))
- 
+
 - Playing with Digits ([Problem](https://www.codewars.com/kata/5552101f47fc5178b1000050) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/playingWithDigits.js))
 
 - Beginner Series #4 Cockroach ([Problem](https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/beginnerSeries%234Cockroach.js))
@@ -56,4 +56,4 @@ This repository is a collection of my solutions to some **Codewars kata**.
 
 - Special Number (Special Numbers Series 5) ([Problem](https://www.codewars.com/kata/5a55f04be6be383a50000187) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/specialNumber.js))
 
-
+- Palindrome Chain Lengeth ([Problem](https://www.codewars.com/kata/525f039017c7cd0e1a000a26) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/palindromeChainLength.js))
