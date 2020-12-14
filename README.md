@@ -60,4 +60,6 @@ This repository is a collection of my solutions to some **Codewars kata**.
 
 - Special Number (Special Numbers Series 5) ([Problem](https://www.codewars.com/kata/5a55f04be6be383a50000187) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/specialNumber.js))
 
-- Palindrome Chain Lengeth ([Problem](https://www.codewars.com/kata/525f039017c7cd0e1a000a26) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/palindromeChainLength.js))
+- Palindrome Chain Length ([Problem](https://www.codewars.com/kata/525f039017c7cd0e1a000a26) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/palindromeChainLength.js))
+
+- Split Strings ([Problem](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/splitStrings.js))
