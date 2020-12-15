@@ -9,3 +9,13 @@
 // Have a great day!
 // The converted string should only feature uppercase letters (A to Z), lowercase letters (a to z), numbers (0 to 9), basic punctuation marks (. , ! ?), and spaces ().
 
+function readZalgo(zalgotext) {
+    let mortalTextArray = [];
+    zalgotext.split("").forEach((str, i)=>{
+        if (/^[A-Za-z0-9.,!?]+$/.test(str) || str === " "){
+            mortalTextArray.push(str);
+        }
+    })
+  let mortalText = mortalTextArray.join('')
+  return mortalText;
+  }
