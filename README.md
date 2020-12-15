@@ -63,3 +63,5 @@ This repository is a collection of my solutions to some **Codewars kata**.
 - Palindrome Chain Length ([Problem](https://www.codewars.com/kata/525f039017c7cd0e1a000a26) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/palindromeChainLength.js))
 
 - Split Strings ([Problem](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/splitStrings.js))
+
+- Zalgo Text Reader ([Problem](https://www.codewars.com/kata/588fe9eaadbbfb44b70001fc) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/zalgoTextReader.js))
