@@ -65,3 +65,5 @@ This repository is a collection of my solutions to some **Codewars kata**.
 - Split Strings ([Problem](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/splitStrings.js))
 
 - Zalgo Text Reader ([Problem](https://www.codewars.com/kata/588fe9eaadbbfb44b70001fc) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/zalgoTextReader.js))
+
+- How Many Days are We Represented in a Foreign Country ([Problem](https://www.codewars.com/kata/58e93b4706db4d24ee000096) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/howManyDays.js))
