@@ -69,3 +69,5 @@ This repository is a collection of my solutions to some **Codewars kata**.
 - How Many Days are We Represented in a Foreign Country (JS) ([Problem](https://www.codewars.com/kata/58e93b4706db4d24ee000096) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/howManyDays.js))
 
 - Holiday VI Shark Edition (PHP) ([Problem](https://www.codewars.com/kata/57e921d8b36340f1fd000059/php) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/holidayVISharkPontoon.php))
+
+- Unlucky Days (JS) ([Problem](https://www.codewars.com/kata/56eb0be52caf798c630013c0) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/unluckyDays.js))
