@@ -73,3 +73,5 @@ This repository is a collection of my solutions to some **Codewars kata**.
 - Unlucky Days (JS) ([Problem](https://www.codewars.com/kata/56eb0be52caf798c630013c0) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/unluckyDays.js))
 
 - Are They the Same (JS) ([Problem](https://www.codewars.com/kata/550498447451fbbd7600041c) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/areTheyTheSame.js))
+
+- Sum of Digits / Digital Root (JS) ([Problem](https://www.codewars.com/kata/541c8630095125aba6000c00) - [My Solution](https://github.com/danaeharris/CodeWars/blob/master/sumOfDigits.js))
